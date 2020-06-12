@@ -1,3 +1,7 @@
 hello from Lappi!
+<<<<<<< HEAD
 hello asklad
 aksjd
+=======
+Hello Leppi!
+>>>>>>> 87727c6b4151959face0fcba86496aa60d0cba21
